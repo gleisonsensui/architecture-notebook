@@ -1,4 +1,3 @@
-````markdown
 # 🏛️ Architecture Notebook
 
 > "A arquitetura de software não é sobre escolher tecnologias. É sobre tomar decisões fundamentadas para atender aos objetivos do negócio."
@@ -47,7 +46,7 @@ Este notebook tem como objetivos:
 
 # Estrutura do Repositório
 
-```text
+
 Architecture Notebook
 │
 ├── 01 - Fundamentals/
@@ -81,7 +80,7 @@ Architecture Notebook
 ├── 15 - Glossary/
 │
 └── README.md
-```
+
 
 ---
 
@@ -164,5 +163,5 @@ As referências utilizadas serão registradas continuamente durante a evolução
 ---
 
 > "Good architecture is not created by accident. It is the result of continuous learning, critical thinking and deliberate decisions."
-````
+
 
